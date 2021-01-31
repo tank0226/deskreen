@@ -45,7 +45,7 @@ Some progress and updates on Deskreen can be found [here](https://github.com/pav
 
 ---
 
-- [General](https://github.com/pavlobu/deskreen/discussions/49) - for general discussion. For example how did you find out about Deskreen? Or send cheers and thanks to anyone in Deskreen's community.🎉
+- [General Discussion](https://github.com/pavlobu/deskreen/discussions/88) - for general discussion. For example how did you find out about Deskreen? Or send cheers and thanks to anyone in Deskreen's community members. 🎉
 
 ---
 
