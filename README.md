@@ -57,6 +57,10 @@ Some progress and updates on Deskreen can be found [here](https://github.com/pav
 
 ---
 
+- [Virtual Display Drivers Knowledge Base | Getting Rid From Virtual Display Plugs](https://github.com/pavlobu/deskreen/discussions/86) - share your knowledge or useful links on how to create a virtual display for any operating system. Links to source code are highly appreciated.
+
+---
+
 <br/>
 <br/>
 
